@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(controllerBG.png);
+    background: url(https://imgur.com/Ih2eD43);
     height: 700px;
     width: 1200px;
     /*    margin-left: -403px;
@@ -22,7 +22,7 @@
 .ds4 .trigger {
     width: 99px;
     height: 100%;
-    background: url(Trigger_Pressed.png);
+    background: url(https://imgur.com/c0IzOgQ);
     opacity: 0;
 }
 
@@ -38,7 +38,7 @@
 .ds4 .bumper {
     width: 200px;
     height: 45px;
-    background: url(Bumper.png) no-repeat;
+    background: url(https://imgur.com/0i8874T) no-repeat;
     opacity: 0;
 }
 
@@ -74,7 +74,7 @@
 }
 
 .ds4 .touchpad.pressed {
-    background: url(Touchpad.png) no-repeat center;
+    background: url(xd) no-repeat center;
 }
 
 .ds4 .meta {
@@ -86,7 +86,7 @@
 }
 
 .ds4 .meta.pressed {
-    background: url(Home.png) no-repeat center;
+    background: url(https://imgur.com/AQd3XmX) no-repeat center;
 }
 
 /*Not needed, but I like keeping them here for posterity*/
@@ -111,7 +111,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(Select.png);
+    background: url(https://imgur.com/4LZnlh4);
     width: 26px;
     height: 43px;
     opacity: 0;
@@ -191,7 +191,7 @@ background-position: 0 -70px;
 
 .ds4 .stick {
     position: absolute;
-    background: url(Sticks.png);
+    background: url(https://imgur.com/FoBGXaj);
     height: 94px;
     width: 94px;
 }
@@ -269,7 +269,7 @@ background-position: 0 -70px;
 
 /*BEGIN PS4 White Controller Styling*/
 .ds4.white .back, .ds4 .start {
-    background-image: url(Start.png);
+    background-image: url(https://imgur.com/pgXIhYP);
     width: 26px;
     height: 43px;
 }
